@@ -2,7 +2,7 @@
 
 <img alt="stats" align="left" width = "50%" src='https://github-readme-stats.vercel.app/api?username=datnham0212&show_icons=true&theme=gruvbox' /> 
 
-<img alt="langs" align="left" width = "50%" src='https://github-readme-stats.vercel.app/api/top-langs/?username=datnham0212&theme=gruvbox&langs_count=20&layout=donut' />
+<img alt="langs" align="right" width = "50%" src='https://github-readme-stats.vercel.app/api/top-langs/?username=datnham0212&theme=gruvbox&langs_count=20&layout=donut' />
 
 <!--
 **datnham0212/datnham0212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
