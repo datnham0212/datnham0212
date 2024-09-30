@@ -2,7 +2,7 @@
 
 [![datnham0212's GitHub stats](https://github-readme-stats.vercel.app/api?username=datnham0212&show_icons=true&theme=gruvbox)](https://github.com/datnham0212/github-readme-stats&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=datnham0212&theme=gruvbox&langs_count=donut))](https://github.com/datnham0212/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=datnham0212&theme=gruvbox&langs_count=10&layout=compact))](https://github.com/datnham0212/github-readme-stats)
 
 <!--
 **datnham0212/datnham0212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
