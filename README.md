@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+[![datnham0212's GitHub stats](https://github-readme-stats.vercel.app/api?username=datnham0212)](https://github.com/datnham0212/github-readme-stats)
+
 <!--
 **datnham0212/datnham0212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
