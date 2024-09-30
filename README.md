@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-<img alt="stats" align="left" width = "47%" src='https://github-readme-stats.vercel.app/api?username=datnham0212&show_icons=true&theme=gruvbox' /> 
+<img alt="stats" align="left" width = "47%" src='https://github-readme-stats.vercel.app/api?username=datnham0212&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=gruvbox' /> 
 
-<img alt="langs" align="left" width = "47%" src='https://github-readme-stats.vercel.app/api/top-langs/?username=datnham0212&theme=gruvbox&langs_count=20&layout=donut' />
+<img alt="langs" align="left" width = "47%" src='https://github-readme-stats.vercel.app/api/top-langs/?username=datnham0212&theme=gruvbox&langs_count=20&layout=donut-vertical' />
 
 <!--
 **datnham0212/datnham0212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
