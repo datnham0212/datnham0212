@@ -2,6 +2,9 @@
 
 <img alt="stats" align="left" width = "47%" src='https://github-readme-stats.vercel.app/api?username=datnham0212&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=gruvbox' /> 
 
+![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=datnham0212&theme=react-dark)
+
+
 <img alt="langs" align="left" width = "47%" src='https://github-readme-stats.vercel.app/api/top-langs/?username=datnham0212&theme=gruvbox&langs_count=20&layout=donut-vertical' />
 
 <!--
