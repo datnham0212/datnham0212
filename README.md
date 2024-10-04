@@ -2,13 +2,18 @@
 
 <div align="center">
 
-<img alt="stats" width="47%" src='https://github-readme-stats.vercel.app/api?username=datnham0212&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=gruvbox' />
+<img alt="stats" width="47%" src='https://github-readme-stats.vercel.app/api?username=datnham0212&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=gruvbox&card_height=300' />
+
+<br><br>
 
 <img alt="langs" width="47%" src='https://github-readme-stats.vercel.app/api/top-langs/?username=datnham0212&theme=gruvbox&langs_count=20&layout=donut-vertical' />
+
+<br><br>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=datnham0212&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
+
 
 
 <!--
