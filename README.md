@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <div align="center">
 
 <img alt="stats" width="47%" src='https://github-readme-stats.vercel.app/api?username=datnham0212&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=gruvbox&card_height=300' />
