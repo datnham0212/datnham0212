@@ -1,4 +1,4 @@
-<h2>My stat:</h2>
+<h2>My stats:</h2>
 <div align="center">
 
 <img alt="stats" width="47%" src='https://github-readme-stats.vercel.app/api?username=datnham0212&show_icons=true&theme=gruvbox&card_height=300' />
