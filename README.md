@@ -5,7 +5,7 @@
 <!--&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage-->
 <br><br>
 
-![Leet Code's stat Stats](https://leetcode-status.vercel.app/api/card/datnham0212?theme=transparent&hide_title=false&custom_title=Leet Code's stat)
+![ Stats](https://leetcode-status.vercel.app/api/card/datnham0212?theme=transparent&hide_title=true&custom_title=)
 
 <br><br>
 
