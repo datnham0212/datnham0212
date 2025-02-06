@@ -5,7 +5,7 @@
 <!--&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage-->
 <br><br>
 
-<img alt="langs" width="47%" src='https://github-readme-stats.vercel.app/api/top-langs/?username=datnham0212&theme=gruvbox&langs_count=20&layout=donut-vertical' />
+![ Stats](https://leetcode-status.vercel.app/api/card/datnham0212?theme=light&hide_title=true&custom_title=)
 
 <br><br>
 
