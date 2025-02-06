@@ -5,19 +5,16 @@
 <!--&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage-->
 <br><br>
 
-![ Stats](https://leetcode-status.vercel.app/api/card/datnham0212?theme=light&hide_title=true&custom_title=)
+![Leet Code's stat Stats](https://leetcode-status.vercel.app/api/card/datnham0212?theme=transparent&hide_title=false&custom_title=Leet Code's stat)
 
 <br><br>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=datnham0212&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
-
-![Stats](https://leetcode-status.vercel.app/api/iyehah?theme=transparent&logo=true&custom_title=Iyehah%20Hacen&logo_color=theme)
 
 </div>
 
 
 
 <!--
+[![trophy](https://github-profile-trophy.vercel.app/?username=datnham0212&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
 **datnham0212/datnham0212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
