@@ -5,13 +5,13 @@
 <!--&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage-->
 <br><br>
 
-<img src="https://leetcode-status.vercel.app/api/iyehah?theme=transparent&logo=true&custom_title=Iyehah%20Hacen&logo_color=theme"/>
-
 <img alt="langs" width="47%" src='https://github-readme-stats.vercel.app/api/top-langs/?username=datnham0212&theme=gruvbox&langs_count=20&layout=donut-vertical' />
 
 <br><br>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=datnham0212&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
+
+![Stats](https://leetcode-status.vercel.app/api/iyehah?theme=transparent&logo=true&custom_title=Iyehah%20Hacen&logo_color=theme)
 
 </div>
 
