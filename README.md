@@ -5,6 +5,8 @@
 <!--&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage-->
 <br><br>
 
+![Stats](https://leetcode-status.vercel.app/api/datnham0212?theme=transparent&logo=true&custom_title=datnham0212%20Hacen&logo_color=theme)
+
 <img alt="langs" width="47%" src='https://github-readme-stats.vercel.app/api/top-langs/?username=datnham0212&theme=gruvbox&langs_count=20&layout=donut-vertical' />
 
 <br><br>
