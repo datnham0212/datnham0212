@@ -1,10 +1,10 @@
-<h2>My stats:</h2>
 <div align="center">
 
 <img alt="stats" width="47%" src='https://github-readme-stats.vercel.app/api?username=datnham0212&show_icons=true&theme=gruvbox&card_height=300' />
 <!--&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage-->
 <br><br>
 
+<h2>LeetCode:</h2>
 ![ Stats](https://leetcode-status.vercel.app/api/card/datnham0212?theme=dark&hide_title=true&custom_title=)
 
 <br><br>
