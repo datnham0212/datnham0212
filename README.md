@@ -2,7 +2,6 @@
 
 <img alt="stats" width="47%" src="https://github-readme-stats.vercel.app/api?username=datnham0212&show_icons=true&theme=gruvbox&card_height=300" />
 <br>
-<img alt="Top Langs" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=datnham0212" />
 
 <br><br>
 
