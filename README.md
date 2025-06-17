@@ -8,6 +8,10 @@
 
 <br><br>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=datnham0212)](https://github.com/datnham0212/github-readme-stats)
+
+<br><br>
+
 </div>
 
 
